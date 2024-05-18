@@ -1,0 +1,34 @@
+Line number	|		Token ID	|	Token name	|	Token type
+———————————————————————————————————————————————————————————————————————————————————————————————————
+	1	|		1		|	int		|	Keyword
+	1	|		2		|	main		|	Identifier
+	1	|		3		|	(		|	Special Character
+	1	|		4		|	)		|	Special Character
+	2	|		5		|	{		|	Special Character
+	3	|		6		|	int		|	Keyword
+	3	|		7		|	a		|	Identifier
+	3	|		8		|	=		|	Operator
+	3	|		9		|	2		|	Constant
+	3	|		10		|	;		|	Special Character
+	4	|		11		|	int		|	Keyword
+	4	|		12		|	b		|	Identifier
+	4	|		13		|	=		|	Operator
+	4	|		14		|	3		|	Constant
+	4	|		15		|	;		|	Special Character
+	5	|		16		|	float		|	Keyword
+	5	|		17		|	c		|	Identifier
+	5	|		18		|	=		|	Operator
+	5	|		19		|	2		|	Constant
+	5	|		20		|	.		|	Special Character
+	5	|		21		|	3		|	Constant
+	5	|		22		|	;		|	Special Character
+	6	|		23		|	c		|	Identifier
+	6	|		24		|	=		|	Operator
+	6	|		25		|	b		|	Identifier
+	6	|		26		|	+		|	Operator
+	6	|		27		|	a		|	Identifier
+	6	|		28		|	;		|	Special Character
+	7	|		29		|	return		|	Keyword
+	7	|		30		|	0		|	Constant
+	7	|		31		|	;		|	Special Character
+	8	|		32		|	}		|	Special Character
